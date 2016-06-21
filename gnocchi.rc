@@ -1,0 +1,4 @@
+export OS_AUTH_TYPE=gnocchi-noauth
+export GNOCCHI_USER_ID=61b19ba808234367ae6d616db081064d
+export GNOCCHI_PROJECT_ID=5be93236c76a4034b248b453cf3f389e
+export GNOCCHI_ENDPOINT=http://localhost:8041
